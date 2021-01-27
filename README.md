@@ -3,7 +3,7 @@
 ## Overview
 
 * HackTheRealy by Yandex
-* Task: Predict duration of exposure of an advert for sale of a flat on Yandex.Realty
+* Task: Predict ad exposure period
 * Date: October 2020
 
 ## Awards
